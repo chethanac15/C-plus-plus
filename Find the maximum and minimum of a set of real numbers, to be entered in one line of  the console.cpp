@@ -1,14 +1,14 @@
 #include <iostream>
 
-#include <sstream> // For stringstream
+#include <sstream> 
 
-#include <limits> // For numeric_limits
+#include <limits> 
 
 using namespace std;
 
 int main() {
 
- // Input the numbers in one line
+ 
 
  cout << "Enter real numbers separated by spaces: ";
 
@@ -34,7 +34,7 @@ int main() {
 
  while (ss >> num) {
 
- // Update max and min
+ 
 
  if (num > max) max = num;
 
