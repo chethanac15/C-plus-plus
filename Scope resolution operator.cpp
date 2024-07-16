@@ -8,6 +8,3 @@ cout<<a<<endl;
 }
 cout<<a<<endl;
 }
-
-output:20
-       10
