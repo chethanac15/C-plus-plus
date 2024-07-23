@@ -4,21 +4,21 @@ using namespace std;
 
 int main() {
 
- int rows, a = 0, b = 1, c;
+    int rows, a = 0, b = 1, c;
 
- cout << "Enter the number of rows: ";
+    cout << "Enter the number of rows: ";
 
- cin >> rows;
+     cin >> rows;
 
- for (int i = 1; i <= rows; ++i) {
+    for (int i = 1; i <= rows; ++i) {
 
- for (int j = 1; j <= i; ++j) {
+   for (int j = 1; j <= i; ++j) {
 
- cout << a << " ";
+    cout << a << " ";
 
- c = a + b;
+     c = a + b;
 
- a = b;
+    a = b;
 
  b = c;
 
