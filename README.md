@@ -19,3 +19,5 @@ File Handling: Simple programs for reading from and writing to files.
 Standard Template Library (STL): Examples of using STL containers (like vectors, lists, and maps) and algorithms.
 
 This repository serves as a practical guide for beginners to build a strong foundation in C++ programming. Each section is well-documented, with comments explaining the code for better understanding
+
+Happy coding 
