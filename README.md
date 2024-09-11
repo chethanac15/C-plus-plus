@@ -10,8 +10,6 @@ Functions: Examples of defining and calling functions, including parameter passi
 
 Arrays and Strings: Basic operations on arrays and strings, including initialization, iteration, and common manipulations.
 
-Pointers and References: Introduction to pointers, pointer arithmetic, and references.
-
 Object-Oriented Programming: Basic concepts of OOP, including classes, objects, inheritance, polymorphism, encapsulation, and abstraction.
 
 File Handling: Simple programs for reading from and writing to files.
